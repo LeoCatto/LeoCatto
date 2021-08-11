@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TypeScript and Nest**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/leonardocatto96/](https://www.linkedin.com/in/leonardocatto96/)
-
 - 💬 Ask me about **JavaScript | ReactJS | NodeJS | TypeScript | Nest**
 
 - 📫 How to reach me **leocatto96@gmail.com**
